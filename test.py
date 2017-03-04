@@ -1,1 +1,1 @@
-print "Hier entsteht einmal MusicMemory"
+print "Liebe Grüße Jörg!"
