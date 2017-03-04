@@ -1,1 +1,1 @@
-print "Hier entsteht mal MusicMemory"
+print "Hier entsteht einmal MusicMemory"
