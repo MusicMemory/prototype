@@ -4,7 +4,7 @@ window = Tk()
 window.title("Mein erstes GUI-Programm")
 window.geometry("300x300")
 
-myImage = PhotoImage(file="Sun.png")
+myImage = PhotoImage(file="images/Sun.png")
 
 def ausgabe():
     print "Mache was"
